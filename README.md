@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+### 👋 Hey, I’m Homorkhay
+### 👀 I’m interested in coding and solving real world problems..
+### 🌱 I’m currently learning web development
+### 💞️ I’m looking to collaborate on awesome projects
+### A student of ALX SE && !Lackadaisical..
 <!--
 **Homorkhay/Homorkhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
