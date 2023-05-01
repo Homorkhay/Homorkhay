@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 👋 Hey, I’m Homorkhay
+### 👋 I’m Homorkhay
 ### 👀 I’m interested in coding and solving real world problems..
 ### 🌱 I’m currently learning web development
 ### 💞️ I’m looking to collaborate on awesome projects
