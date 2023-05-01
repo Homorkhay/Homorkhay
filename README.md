@@ -5,7 +5,7 @@
 ### 💞️ I’m looking to collaborate on awesome projects
 ### A student of ALX SE && !Lackadaisical..
 
-## Follow
+## Follow.. && Connect..
 | [![Twitter icon](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/homorkhay) | [![LinkedIn icon](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/omokehinde-happiness-431930268) |
 |-|-|
 | **Follow me on Twitter** | **Follow me on LinkedIn** |
